@@ -1,0 +1,24 @@
+.banner h2 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.banner p {
+    font-size: 22px;
+}
+.success .a {
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.success .b {
+    background-color: #ffa5bc;
+}
+.success .c {
+    background-color: #6fc7d9;
+}
+.success .d {
+    background-color: #1e266d;
+}
+
+.bb {
+    border-top: 3px solid green;
+}
